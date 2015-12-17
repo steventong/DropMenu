@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/deepSkyBlue</color>
+    <color name="colorPrimaryDark">#3F51B5</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="background">#eeeeee</color>
+    <color name="deepSkyBlue">#0682ff</color>
+    <color name="deepSkyBluePress">#062bff</color>
+    <color name="slate">#4f5f6f</color>
+    <color name="slateAlpha60">#9a4f5f6f</color>
+    <color name="slateGrey">#9a5f646e</color>
+    <color name="white">#ffffff</color>
+    <color name="grayWhite">#f8f8f8</color>
+    <color name="lineColor">#e0e0e0</color>
+    <color name="charcoalGrey">#3d424c</color>
+    <color name="blueyGrey">#a1b1c2</color>
+    <color name="grapefruit">#ff5252</color>
+    <color name="warmGrey">#999999</color>
+
+    <color name="half_transparent">#9000</color>
+</resources>
